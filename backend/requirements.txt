@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic==2.*
+transformers
+torch
+onnxruntime # CPU runtime
+scikit-learn
+python-dotenv
+langcodes # simple language check (optional)
+orjson
+

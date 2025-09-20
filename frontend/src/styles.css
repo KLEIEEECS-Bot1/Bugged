@@ -1,0 +1,4 @@
+body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; }
+button { padding: 8px 12px; border: 1px solid #888; border-radius: 6px; background: #fff; cursor: pointer; }
+button:disabled { opacity: 0.6; cursor: not-allowed; }
+textarea { padding: 8px; }
